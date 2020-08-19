@@ -10,4 +10,4 @@ I'm currently working for a unique agency <a href="https://akanewmedia.com">AKAn
 - LinkedIn <a href="https://www.linkedin.com/in/wassimn/">LinkedIn</a>
 - Twitter <a href="https://twitter.com/wassim_n">@wassim_n</a>
 
-[![wassimn's github stats](https://github-readme-stats.vercel.app/api?username=wassimn&count_private=true&theme=radical&show_icons=true)](https://github.com/wassimn)
+[![wassimn's github stats](https://github-readme-stats.vercel.app/api?username=wassimn&count_private=true&theme=onedark&show_icons=true)](https://github.com/wassimn)
