@@ -2,7 +2,7 @@
 
 I'm a software engineer who has always been obsorbed by code, always been passionate about technology and helping others. Been fiddling with code since early web days and developed application using amazing technologies such as .net/.net core, angular and GraphQL. Recently I got so interested in home automation and been busy building my own smart home.
 
-## What I do
+## Where I am curruntely working at
 
 I'm currently working for a unique agency <a href="https://akanewmedia.com">AKAnewmedia</a>, an agency that adopt new technology to build and scale a fundraisining platform called raisin. Also kept my self busy, building and launching a fashion website <a href="www.differio.com">(Differio)</a> with couple of my friends.   
 
