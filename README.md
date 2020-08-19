@@ -9,3 +9,5 @@ I'm currently working for a unique agency <a href="https://akanewmedia.com">AKAn
 ## Find more about me on web 🌎:
 - LinkedIn <a href="https://www.linkedin.com/in/wassimn/">LinkedIn</a>
 - Twitter <a href="https://twitter.com/wassim_n">@wassim_n</a>
+
+[![wassimn's github stats](https://github-readme-stats.vercel.app/api?username=wassimn)](https://github.com/wassimn/github-readme-stats)
