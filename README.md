@@ -4,7 +4,8 @@ I'm a software engineer who has always been obsorbed by code, always been passio
 
 ## Where I am curently working at
 
-I'm currently working for a unique agency <a href="https://akanewmedia.com">AKAnewmedia</a>, an agency that adopt new technology to build and scale a fundraisining platform called raisin. Also kept my self busy, building and launching a fashion website <a href="www.differio.com">(Differio)</a> with couple of my friends.   
+I'm currently working for a unique agency <a href="https://akanewmedia.com">AKAnewmedia</a>, an agency that adopt new technology and offers a fundraisining platform called raisin. 
+A side hassle, I built and launched with couple of friends a trendy and LGBT friendly clothing/fashion website <a href="www.differio.com">(Differio)</a>.   
 
 ## Find more about me on web 🌎:
 - LinkedIn <a href="https://www.linkedin.com/in/wassimn/">LinkedIn</a>
